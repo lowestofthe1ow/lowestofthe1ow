@@ -19,6 +19,8 @@ I'm an undergraduate CS-CSE student interested in CV and low-resource NLP who al
 
 ---
 
+![a](https://i.imgur.com/xJUitQJ.png)
+
 <div align="center">
   <p><i>
     There is an art, it says, or rather, a knack to flying. The knack lies in learning how to throw yourself at the ground and miss.
