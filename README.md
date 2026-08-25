@@ -1,6 +1,6 @@
 ## ❖ Nice to meet you!
 
-I'm an undergraduate CS-CSE student interested in CV and low-resource NLP who also happens to sometimes do (some) electronics stuff.
+I'm an undergraduate CS-CSE student interested in CV and low-resource NLP who also happens to sometimes do (some) electronics stuff. よろしくお願いします！
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1903-4932)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/lowestofthelow)
