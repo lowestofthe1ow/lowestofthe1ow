@@ -17,6 +17,20 @@ I'm an undergraduate CS-CSE student interested in CV and low-resource NLP who al
 - [Filipino phoneme recognition](https://github.com/dlsu-cse-nlp/phoneme-recognition). My undergraduate thesis as a joint project with [@penguinforest](https://github.com/penguinforest).
 - ...and some others. See also the GitHub organizations where I keep some of my work: [CV](https://github.com/dlsu-cse-cv) and [NLP](https://github.com/dlsu-cse-nlp).
 
+### ⟣⎯ Skills
+
+[![Languages](https://skillicons.dev/icons?i=bash,c,cpp,go,java,js,lua,py)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;
+[![Web](https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,svelte,astro,vite)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,discordjs,mongodb,mysql,firebase,supabase,gcp)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;
+[![Data Science](https://skillicons.dev/icons?i=py,r,anaconda,matlab,octave,opencv,pytorch,sklearn)](https://skillicons.dev)
+
+[![Other](https://skillicons.dev/icons?i=git,github,gitlab,linux,arduino,md,latex,obsidian)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;
+[![Other](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,npm,postman,godot,ps)](https://skillicons.dev)
+
 ---
 
 ![a](https://i.imgur.com/xJUitQJ.png)
