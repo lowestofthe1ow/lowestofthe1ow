@@ -4,6 +4,7 @@ I'm an undergraduate CS-CSE student interested in CV and low-resource NLP who al
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1903-4932)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/lowestofthelow)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://huggingface.co/lowestofthelow](https://discord.com/users/539061246113218565))
 
 <!--
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenz_marqueses@dlsu.edu.ph)
@@ -17,19 +18,13 @@ I'm an undergraduate CS-CSE student interested in CV and low-resource NLP who al
 - [Filipino phoneme recognition](https://github.com/dlsu-cse-nlp/phoneme-recognition). My undergraduate thesis as a joint project with [@penguinforest](https://github.com/penguinforest).
 - ...and some others. See also the GitHub organizations where I keep some of my work: [CV](https://github.com/dlsu-cse-cv) and [NLP](https://github.com/dlsu-cse-nlp).
 
-### ⟣⎯ Skills
+### ⟣⎯ Skills... or just stuff I've worked with
 
-[![Languages](https://skillicons.dev/icons?i=bash,c,cpp,go,java,js,lua,py)](https://skillicons.dev)
+[![Main languages, etc.](https://skillicons.dev/icons?i=c,cpp,go,java,html,css,js,lua,py,r,anaconda,opencv,pytorch,sklearn,bash)](https://skillicons.dev)
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,jquery,react,svelte,astro,vite)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=tailwind,jquery,react,svelte,astro,nodejs,express,discordjs,mongodb,mysql,firebase,supabase,gcp,npm,postman)](https://skillicons.dev)
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,discordjs,mongodb,mysql,firebase,supabase,gcp)](https://skillicons.dev)
-
-[![AI](https://skillicons.dev/icons?i=py,r,anaconda,matlab,octave,opencv,pytorch,sklearn)](https://skillicons.dev)
-
-[![Other](https://skillicons.dev/icons?i=git,github,gitlab,linux,arduino,md,latex,obsidian)](https://skillicons.dev)
-
-[![Other](https://skillicons.dev/icons?i=vscode,visualstudio,neovim,npm,postman,godot,ps)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=git,github,gitlab,linux,matlab,octave,arduino,md,latex,obsidian,vscode,visualstudio,neovim,godot,ps)](https://skillicons.dev)
 
 ---
 
