@@ -14,7 +14,7 @@ I'm an undergraduate CS-CSE student interested in CV and low-resource NLP who al
 
 ### ⟣⎯ Current projects
 
-- [Filipino ByT5 sentence-level G2P with stress](https://github.com/dlsu-cse-nlp/filipino-byt5-g2p). Accepted as a full-paper presentation to [NLPIR 2026](https://www.nlpir.net/index.html).
+- [![arXiv](https://img.shields.io/badge/arXiv-2609.09974-b31b1b.svg)](https://arxiv.org/abs/2609.09974) [Filipino ByT5 sentence-level G2P with stress](https://github.com/dlsu-cse-nlp/filipino-byt5-g2p). Accepted as a full-paper presentation to [NLPIR 2026](https://www.nlpir.net/index.html).
 - [Filipino phoneme recognition](https://github.com/dlsu-cse-nlp/phoneme-recognition). My undergraduate thesis as a joint project with [@penguinforest](https://github.com/penguinforest).
 - ...and some others. See also the GitHub organizations where I keep some of my work: [CV](https://github.com/dlsu-cse-cv) and [NLP](https://github.com/dlsu-cse-nlp).
 
