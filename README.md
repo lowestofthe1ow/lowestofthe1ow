@@ -54,3 +54,7 @@ Presented at [PCSC 2026](https://pcsc2026.uic.edu.ph). Proceedings available [he
   </i></p>
   <p>― Douglas Adams</p>
 </div>
+
+---
+
+ちなみに、アイマス好きです。
